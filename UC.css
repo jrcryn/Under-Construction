@@ -1,0 +1,31 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    line-height: 25px;
+    padding-top: 150px;
+  }
+
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .logo {
+    max-width: 250px;
+  }
+
+  .title {
+    font-size: 36px;
+    color: #ff0000;
+  }
+
+  .subtitle {
+    font-size: 24px;
+    color: #ff0000;
+  }
+
+  .message {
+    font-size: 18px;
+    color: grey;
+  }
